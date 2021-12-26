@@ -1,0 +1,51 @@
+.head1{
+    text-align: center;
+    text-decoration:  underline;
+    color: blanchedalmond;
+    background-color: black;
+}
+.head2{
+    text-align: center;
+}
+#topin{
+    width: 10px;
+}
+.head3 h1{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    
+}
+.name input{
+    width: 1000px;
+    position: relative;
+    bottom: 35px;
+    left: 130px;
+}
+.fname input{
+    width: 1000px;
+    position: relative;
+    bottom: 35px;
+    left: 130px;
+}
+.dob input{
+    width: 168px;
+}
+.res input{
+    width: 900px;
+}
+.cnic input{
+    width: 10px;
+}
+.mark input{
+    width: 400px;
+}
+.table td{
+    border: 2px black solid;
+}
+#button{
+    background-color: greenyellow;
+    width: 1200px;
+    font-size: large;
+    text-align: center;
+}
